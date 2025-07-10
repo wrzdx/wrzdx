@@ -30,7 +30,7 @@ Just an ordinary starving student wishing to be free.
 </p>
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=wrzdx&theme=radical&hide_border=false" alt="GitHub Streak" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=wrzdx&theme=radical&hide_border=true" alt="GitHub Streak" height="170" />
 </p>
 
 ---
