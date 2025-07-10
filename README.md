@@ -26,10 +26,7 @@ Just an ordinary starving student wishing to be free.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=wrzdx&show_icons=true&theme=radical&hide_border=true" height="170" />
-  <img src="https://streak-stats.demolab.com/?user=wrzdx&theme=radical&hide_border=true" height="170"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wrzdx&layout=compact&theme=radical&hide_border=true" height="130" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=wrzdx&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
