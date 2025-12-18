@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Evgenii</h1>
 <h3 align="center">Just an ordinary starving student wishing to be free.</h3>
 
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wrzdx" alt="wrzdx" /></a> </p>
-
 - 🌱 I’m currently learning **React**
 
 - 📫 How to reach me **e.khovalyg@innopolis.university**
