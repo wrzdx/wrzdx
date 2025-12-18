@@ -35,5 +35,5 @@
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wrzdx&show_icons=true&locale=en&layout=compact" alt="wrzdx" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wrzdx&show_icons=true&locale=en&layout=compact&theme=radical" alt="wrzdx" /></p>
 
