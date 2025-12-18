@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **e.khovalyg@innopolis.university**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wrzdx&show_icons=true&locale=en" alt="wrzdx" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wrzdx&show_icons=true&locale=en&color=black" alt="wrzdx" /></p>
 
 <h3 align="left">Languages:</h3>
 <p align="left"> 
