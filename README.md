@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Evgenii</h1>
-<h3 align="center">Just an ordinary starving student wishing to be free.</h3>
+<h3 align="center">Just a student wishing to be free.</h3>
 
 - 🌱 I’m currently learning **ExpressJS**
 
